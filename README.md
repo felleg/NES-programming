@@ -1,6 +1,11 @@
 # Installation
 Install cc65 by following these instructions: http://cc65.github.io/cc65/getting-started.html
 
+# Building
+Run compile.bat on your windows machine (or in wine..?). I'm not yet sure how to do this on Linux, but believe me I will find a way. I'm not yet sure if the makefile is supposed to work, but it does not for me.  
+
+In case you did not already notice, at this early stage in development, this project is based on a pre-existing example.
+
 # Documentation
 NESdoug's tutorial:
 https://nesdoug.com/
