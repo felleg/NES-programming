@@ -13,6 +13,9 @@ https://nesdoug.com/
 Introduction to romhacking:
 https://www.romhacking.net/start/
 
+Easy 6502:
+https://skilldrick.github.io/easy6502/
+
 # Debugging
 We recommend using the Windows version of FCEUX, since it comes with a very well made debugger:
 http://www.fceux.com/web/download.html
